@@ -1,0 +1,2 @@
+
+Input number: 5
